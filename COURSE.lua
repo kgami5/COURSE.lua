@@ -8,7 +8,7 @@ import "android.view.*"
 
 
 activity.setTheme(android.R.style.Theme_DeviceDefault_Light)
-activity.ActionBar.hide()
+--activity.ActionBar.hide()
 --activity.setContentView(loadlayout(layout))
 --标题
 activity.setTitle('ASD工具箱')
