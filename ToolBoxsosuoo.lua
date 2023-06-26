@@ -2,7 +2,7 @@ require "import"
 import "android.widget.*"
 import "android.view.*"
 activity.setTheme(android.R.style.Theme_DeviceDefault_Light)
---activity.ActionBar.hide()
+
 import "java.io.File"
 --布局表中调用
 import "android.graphics.Typeface"
